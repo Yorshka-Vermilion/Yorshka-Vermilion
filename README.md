@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 :book: I'm instrested in games development, machine learning, modeling and animation. 
 
-:+1: I enjoy working in C++, Unreal Engine and Python (exclusively ML)
+:+1: I enjoy working in C++, Unreal Engine and Python (exclusively ML). You can check out some of my work via "pinned" section below.
 
 :email: You can reach me via [EMAIL](mailto:proarc98@gmail.com)
 
