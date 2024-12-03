@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 :office: I'm working at Kielce University of Technology as Lecturer
 
-:mortar_board: I graduated with honors in computer science from the Kielce University of Technology in 2022.
+:mortar_board: I graduated with honors in computer science from the Kielce University of Technology in 2022 and my master's thesis has won reward for the best thesis in IT in region.
 
 :book: I'm instrested in games development, machine learning, modeling and animation. 
 
-:+1: I enjoy working in C++, Unreal Engine and Python (exclusively ML). You can check out some of my work via "pinned" section below.
+:+1: I enjoy working in C++, Unreal Engine and Python (exclusively ML). You can check out some of my work in the table below.
 
 :email: You can reach me via [EMAIL](mailto:proarc98@gmail.com)
 
