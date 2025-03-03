@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## :zap: About me
 
-:hammer: I'm currently working on 2D strategy game using [sfml](https://www.sfml-dev.org/) and [tgui](https://tgui.eu/).
-
 :office: I'm working at Kielce University of Technology as Lecturer
 
 :mortar_board: I graduated with honors in computer science from the Kielce University of Technology in 2022. My master's thesis has won in the contest for the best thesis in IT in region.
