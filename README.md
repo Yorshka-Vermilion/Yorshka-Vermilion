@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 :mortar_board: I graduated with honors in computer science from the Kielce University of Technology in 2022. My master's thesis has won in the contest for the best thesis in IT in region.
 
-:book: I'm instrested in games development, machine learning, modeling and animation. 
+🔭 I'm currently working on a 2D strategy game on my own engine using SFML library (c++), some Minecraft mods (java), and "smart" devices for my home and outdoor.
 
-:+1: I enjoy working in C++, Unreal Engine and Python (exclusively ML). You can check out some of my work in the table below.
-
+:book: I'm instrested in games development, embedded projects (with ESP32 in particular), and linux. You can check out some of my work in the table below.
+ 
 :email: You can reach me via [EMAIL](mailto:proarc98@gmail.com)
 
 ## 🌐 Socials:
