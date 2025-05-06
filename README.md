@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :office: I'm working at Kielce University of Technology as Lecturer
 
-:mortar_board: I graduated with honors in computer science from the Kielce University of Technology in 2022. My master's thesis has won in the contest for the best thesis in IT in region.
+:mortar_board: I graduated with honors in computer science from the Kielce University of Technology in 2022. My master's thesis has won in the contest for the best thesis in IT in the county.
 
 🔭 I'm currently working on a 2D strategy game on my own engine using SFML library (c++), some Minecraft mods (java), and "smart" devices for my home and outdoor.
 
